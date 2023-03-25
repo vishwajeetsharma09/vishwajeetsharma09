@@ -2,9 +2,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+</p> -->
 
 I am a Software Engineer and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
@@ -60,7 +60,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 ---
 
 
-### You can find in me in the web 🌍
+<!-- ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -68,9 +68,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+ -->
 
-
----
+<!-- ---
 ### You can checkout my blogs :loudspeaker: 
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
@@ -90,4 +90,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[medium]: https://medium.com/@Souravdey777/ -->
