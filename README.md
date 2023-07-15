@@ -8,7 +8,7 @@
 
 I am a Software Engineer and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
