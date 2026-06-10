@@ -1,27 +1,109 @@
-### Hey vishwajeet sharma here 👋
+# Hi there, I'm Vishwajeet Sharma 👋
 
-I am a Software Engineer and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
- 
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Cloud Learner</h3>
 
- 👯 I’m looking to collaborate for a React ,web development .
- 
- 
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+<p align="center">
+Building scalable web applications, AI-powered products, and modern digital experiences.
+</p>
 
+---
 
+## 👨‍💻 About Me
 
+* 💼 Full Stack Developer specializing in the **MERN Stack**
+* 🤖 Passionate about **Artificial Intelligence & Generative AI**
+* ☁️ Exploring **Cloud Technologies** and scalable architectures
+* 🚀 Building real-world SaaS and AI-powered applications
+* 🎯 Focused on writing clean, maintainable, and performant code
+* 🌱 Currently learning **Google Cloud Platform (GCP), AI Agents, and Advanced System Design**
+* 💬 Ask me about **React, Node.js, MongoDB, Express.js, JavaScript, AI Integrations, and Cloud**
 
+---
 
-### Tech & Tools Preference
+## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+### Backend
 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+
+### AI & Modern Technologies
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_DB-FF6B35?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Reality Detector AI
+
+AI-powered platform that analyzes and verifies information using advanced detection techniques.
+
+**Tech:** React, Node.js, Express.js, Supabase, AI APIs
+
+### 🧠 AI-Powered Applications
+
+Building intelligent applications using LLMs, RAG architecture, and AI integrations.
+
+### 🌐 Full Stack Web Applications
+
+Scalable MERN stack applications with modern UI/UX and secure backend architecture.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+🌐 Portfolio: https://your-portfolio.com
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy transforming ideas into scalable products, exploring AI innovations, and continuously learning emerging technologies.
