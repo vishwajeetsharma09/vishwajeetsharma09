@@ -96,7 +96,7 @@ Scalable MERN stack applications with modern UI/UX and secure backend architectu
 
 ## 🤝 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:vishusharmaiit09@gmail.com)
+📧 Email: mailto:vishusharmaiit09@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/vishwajeet-sharm09
 
