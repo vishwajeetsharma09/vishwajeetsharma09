@@ -81,11 +81,11 @@ Scalable MERN stack applications with modern UI/UX and secure backend architectu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwajeetsharma09&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetsharma09&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -96,11 +96,11 @@ Scalable MERN stack applications with modern UI/UX and secure backend architectu
 
 ## 🤝 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [your-email@example.com](mailto:vishusharmaiit09@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://linkedin.com/in/vishwajeet-sharm09
 
-🌐 Portfolio: https://your-portfolio.com
+🌐 Portfolio: https://vishwajeet09.vercel.app/
 
 ---
 
